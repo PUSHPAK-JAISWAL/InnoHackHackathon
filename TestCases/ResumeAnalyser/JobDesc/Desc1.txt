@@ -1,0 +1,34 @@
+1. Job Title: Full Stack Developer (Java + React)
+Location: Bengaluru, India (Hybrid)
+Experience: 1-3 years
+Industry: Information Technology & Services
+Employment Type: Full-Time
+
+Job Description:
+We are seeking a skilled Full Stack Developer with a strong foundation in Java (Spring Boot) and React.js to join our product engineering team. You will be responsible for designing, developing, and maintaining scalable web applications for enterprise clients.
+
+Key Responsibilities:
+Design and develop RESTful APIs using Spring Boot.
+
+Build responsive user interfaces using React and integrate with backend services.
+
+Work with DevOps tools (Docker, Jenkins) for CI/CD.
+
+Write unit and integration tests to ensure code quality.
+
+Participate in code reviews, agile ceremonies, and team planning.
+
+Skills Required:
+Strong experience in Java (8+), Spring Boot, and JPA/Hibernate.
+
+Proficient in JavaScript, React, Redux, HTML, CSS.
+
+Familiarity with SQL (MySQL/PostgreSQL) and NoSQL (MongoDB) databases.
+
+Good understanding of microservices architecture.
+
+Exposure to cloud platforms (AWS/GCP/Azure) is a plus.
+
+Education:
+B.E./B.Tech/MCA in Computer Science or related field.
+

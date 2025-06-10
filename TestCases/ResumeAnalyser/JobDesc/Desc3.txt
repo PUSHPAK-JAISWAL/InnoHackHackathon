@@ -1,0 +1,34 @@
+Job Title: Data Scientist – NLP & ML
+Location: Remote
+Experience: 1-2 years
+Industry: AI & Data Analytics
+Employment Type: Contract / Full-Time
+
+Job Description:
+We are looking for a passionate Data Scientist with expertise in Natural Language Processing (NLP) and Machine Learning to build AI-driven solutions for real-world problems across finance, healthcare, and education sectors.
+
+Key Responsibilities:
+Develop and deploy ML/NLP models for text classification, summarization, sentiment analysis, etc.
+
+Preprocess large datasets, build pipelines, and optimize models for production.
+
+Collaborate with MLOps engineers for deployment and monitoring.
+
+Stay updated with the latest research in LLMs and transformers (e.g., BERT, GPT, T5).
+
+Document experiments, findings, and recommendations.
+
+Skills Required:
+Proficiency in Python, Scikit-learn, TensorFlow/PyTorch.
+
+Experience with Hugging Face Transformers and spaCy.
+
+Familiarity with cloud platforms (AWS SageMaker, Azure ML).
+
+Good understanding of vector stores, embeddings, and prompt engineering.
+
+Bonus: Experience in fine-tuning LLMs or working with LangChain.
+
+Education:
+Master’s or PhD in Data Science, Machine Learning, Statistics, or a related field.
+

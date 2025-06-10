@@ -1,0 +1,34 @@
+Job Title: Cybersecurity Analyst (SOC Tier 2)
+Location: Pune, India (On-site)
+Experience: 1-2 years
+Industry: Cybersecurity / IT Services
+Employment Type: Full-Time
+
+Job Description:
+We are hiring a proactive Cybersecurity Analyst for our Security Operations Center (SOC). You will be responsible for monitoring, detecting, and responding to security incidents using industry-leading tools and frameworks.
+
+Key Responsibilities:
+Monitor and triage alerts from SIEM tools like Splunk, QRadar, or Sentinel.
+
+Perform log analysis, identify anomalies, and escalate incidents.
+
+Investigate phishing, malware, and endpoint security threats.
+
+Document incident reports and work on mitigation strategies.
+
+Collaborate with the Threat Intel and Incident Response teams.
+
+Skills Required:
+Strong understanding of TCP/IP, firewalls, IDS/IPS, and endpoint protection.
+
+Hands-on with SIEM, SOAR tools, and threat detection platforms.
+
+Knowledge of MITRE ATT&CK framework and NIST standards.
+
+Familiarity with scripting (Python, Bash) is desirable.
+
+Industry certifications like CompTIA Security+, CEH, or SOC Analyst (EC-Council) are preferred.
+
+Education:
+Bachelor’s degree in Cybersecurity, Computer Science, or related field.
+
