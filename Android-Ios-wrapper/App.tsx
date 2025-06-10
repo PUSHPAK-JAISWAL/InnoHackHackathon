@@ -4,7 +4,7 @@ import { WebView } from 'react-native-webview';
 
 export default function App() {
   // Replace this with your IP address if accessing from a mobile device
-  const localUrl = Platform.OS === 'android' ? 'http://10.0.2.2:8501' : 'http://localhost:8501';
+  const localUrl = Platform.OS === 'android' ? 'http://192.168.103.84:8501' : 'http://localhost:8501';
 
   return (
     <SafeAreaView style={styles.container}>
