@@ -1,6 +1,4 @@
-def main():
-    print("Hello from desktop!")
+# desktop_app.py
+import webview
 
-
-if __name__ == "__main__":
-    main()
+webview.create_window("My Streamlit App", "http://localhost:8501", width=1024, height=768)

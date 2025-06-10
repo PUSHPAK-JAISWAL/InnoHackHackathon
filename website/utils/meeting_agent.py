@@ -9,7 +9,7 @@ def show_ui():
     attendees = st.text_input("Attendees (comma separated)")
     duration = st.slider("Duration (minutes)", 15, 120, 30)
     purpose = st.text_area("Meeting Purpose")
-    timezone = st.selectbox("Timezone", ["UTC", "EST", "PST", "CET"])
+    timezone = st.selectbox("Timezone", ["UTC", "IST", "PST", "CET"])
     
     if st.button("Generate Proposal"):
         result = schedule_meeting(attendees, duration, purpose, timezone)
